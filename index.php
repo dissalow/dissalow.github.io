@@ -26,7 +26,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script src="/js/lightslider.min.js"></script>
   <script src="/js/jquery.twentytwenty.js"></script>
-  
+  <script src="/js/jquery.event.move.js"></script>
 </head>
 <body>
 <section id="block1" class="block22 brnr bplb pr v2 oh">
