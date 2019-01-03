@@ -8,7 +8,7 @@ $name = htmlspecialchars(urldecode(trim($name)));
 $telephone = htmlspecialchars(urldecode(trim($telephone)));
 
 
-$to = 'yanusa@ua.fm';
+$to = 'mail@mail.ua';
 $subject = 'Запись на ресницы';
 $message = "Имя: $name, Телефон: $telephone";
 $sub = 'From: info@novatech-sto.com.ua \r\n';
